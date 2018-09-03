@@ -96,7 +96,7 @@ export default class CaseConversion extends Component{
                                 <input type="radio" name="foobar" />
                                 PascalCased
                               </label>
-                            </div>
+                            </div> 
                             <div className="control">
                              <label className="radio">
                                 <input type="radio" name="foobar" />
