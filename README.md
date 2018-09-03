@@ -1,3 +1,3 @@
-# ReactListShuttle
+# Case conversion
 
-This code explores the use of list shuttle functionality.
+This code explores the use of case conversion functionality.
